@@ -26,7 +26,7 @@ namespace CampfireTests
 
 
 
-        public void AnswerRecived(string message)
+        public void AnswerRecived(ChatMessage message)
         {
             if (ChatMessage != null)
             {

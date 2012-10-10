@@ -79,7 +79,7 @@
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
-            this.Text = "Meh";
+            this.Text = "aaa";
             this.ResumeLayout(false);
             this.PerformLayout();
 

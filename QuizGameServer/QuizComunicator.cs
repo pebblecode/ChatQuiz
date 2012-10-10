@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace QuizGameServer
 {
@@ -12,25 +9,20 @@ namespace QuizGameServer
     /// </summary>
     public class QuizComunicator
     {
-        private readonly IQuestionProvider provider;
-        string _lastMessage = null;
-
-        QuestionState model = null;
-        private readonly IChatApi view;
+        QuestionState _model;
+        private readonly IChatApi _view;
 
         public event VoidEventHandler QuestionAnswered;
 
         public QuizComunicator(IChatApi chatapi)
         {
-            this.provider = provider;
-            this.view = chatapi;
-            this.view .ChatMessage += OnChatMessageReceived;
+            _view = chatapi;
+            _view .ChatMessage += OnChatMessageReceived;
         }
 
-        void OnChatMessageReceived(string possibleAnswer)
+        void OnChatMessageReceived(ChatMessage possibleAnswer)
         {
-            _lastMessage = possibleAnswer;
-            bool answeredCorrectly = model.CheckAnswer(possibleAnswer);
+            bool answeredCorrectly = _model.CheckAnswer(possibleAnswer.Message);
             HandleAnswer(answeredCorrectly);
         }
 
@@ -38,15 +30,15 @@ namespace QuizGameServer
         {
             if (question == null) throw new Exception();
 
-            view.BroadcastMessage(question.Question);
-            model = QuestionStateFactory.BuildQuestionState(question);
+            _view.BroadcastMessage(question.Question);
+            _model = QuestionStateFactory.BuildQuestionState(question);
         }
 
         public bool IsQuestionAnswered
         {
             get
             {
-                return model.HasQuestionBeenAnswered;
+                return _model.HasQuestionBeenAnswered;
             }
         }
 
@@ -54,12 +46,12 @@ namespace QuizGameServer
         {
             if (correctAnswer)
             {
-                view.BroadcastMessage("Correct Answer!");
+                _view.BroadcastMessage("Correct Answer!");
                 if (QuestionAnswered != null) QuestionAnswered();
             }
             else
             {
-                view.BroadcastMessage("Wrong Answer!");
+                _view.BroadcastMessage("Wrong Answer!");
             }
         }
     }

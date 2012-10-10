@@ -4,3 +4,19 @@
 \\vmware-host\shared folders\documents\visual studio 2012\Projects\CampfireHoon\QuizGameServer\bin\Debug\QuizGameServer.pdb
 \\vmware-host\shared folders\documents\visual studio 2012\Projects\CampfireHoon\QuizGameServer\obj\Debug\QuizGameServer.exe
 \\vmware-host\shared folders\documents\visual studio 2012\Projects\CampfireHoon\QuizGameServer\obj\Debug\QuizGameServer.pdb
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\QuizGameServer\bin\Debug\QuizGameServer.exe.config
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\QuizGameServer\bin\Debug\QuizGameServer.exe
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\QuizGameServer\bin\Debug\QuizGameServer.pdb
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\QuizGameServer\obj\Debug\QuizGameServer.csprojResolveAssemblyReference.cache
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\QuizGameServer\obj\Debug\QuizGameServer.exe
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\QuizGameServer\obj\Debug\QuizGameServer.pdb
+C:\Users\Alex Butcher\Documents\Visual Studio 2012\ChatQuiz\QuizGameServer\bin\Debug\QuizGameServer.exe.config
+C:\Users\Alex Butcher\Documents\Visual Studio 2012\ChatQuiz\QuizGameServer\bin\Debug\QuizGameServer.exe
+C:\Users\Alex Butcher\Documents\Visual Studio 2012\ChatQuiz\QuizGameServer\bin\Debug\QuizGameServer.pdb
+C:\Users\Alex Butcher\Documents\Visual Studio 2012\ChatQuiz\QuizGameServer\obj\Debug\QuizGameServer.csprojResolveAssemblyReference.cache
+C:\Users\Alex Butcher\Documents\Visual Studio 2012\ChatQuiz\QuizGameServer\obj\Debug\QuizGameServer.exe
+C:\Users\Alex Butcher\Documents\Visual Studio 2012\ChatQuiz\QuizGameServer\obj\Debug\QuizGameServer.pdb
+C:\Users\Alex Butcher\Documents\Visual Studio 2012\ChatQuiz\QuizGameServer\bin\Debug\CampfireHoon.exe
+C:\Users\Alex Butcher\Documents\Visual Studio 2012\ChatQuiz\QuizGameServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex Butcher\Documents\Visual Studio 2012\ChatQuiz\QuizGameServer\bin\Debug\CampfireHoon.pdb
+C:\Users\Alex Butcher\Documents\Visual Studio 2012\ChatQuiz\QuizGameServer\bin\Debug\Newtonsoft.Json.xml

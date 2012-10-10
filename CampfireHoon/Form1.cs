@@ -158,8 +158,8 @@ namespace CampfireHoon
 
             if (response.StatusCode == HttpStatusCode.OK)
             {
-                Task.Run(() => PreloadUsers());
                 StartStreaming();
+                Task.Run(() => PreloadUsers());
             }
         }
 
