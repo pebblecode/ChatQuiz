@@ -13,12 +13,13 @@ namespace QuizGameServer
             const int timeToAnswer = 30;
             IChatApi chatClient = null;
 
+            /*
             GameRunner runner = new GameRunner(GetDefaultQuestionProvider(), chatClient, timeToAnswer);
             runner.Start();
 
             Console.ReadLine();
             runner.Stop();
-
+            */
         }
 
         private static QueueQuestionRepository GetDefaultQuestionProvider()

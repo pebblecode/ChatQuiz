@@ -23,14 +23,14 @@ namespace QuizGameServer
 
         public bool CheckAnswer(string possibleAnswer)
         {
-            // todo Change to use fuzzy comparison here
+            
             if (_matchingStrategy.IsMatch(item.Answer, possibleAnswer))
             {
                 HasQuestionBeenAnswered = true;
                 return true;
             }
-            else
-                return false;
+            
+            return false;
         }
 
         public bool HasQuestionBeenAnswered { get { return _questionState; } private set { _questionState = value; } }

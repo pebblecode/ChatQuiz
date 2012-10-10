@@ -20,9 +20,9 @@ namespace QuizGameServer
             _view .ChatMessage += OnChatMessageReceived;
         }
 
-        void OnChatMessageReceived(string possibleAnswer)
+        void OnChatMessageReceived(ChatMessage possibleAnswer)
         {
-            bool answeredCorrectly = _model.CheckAnswer(possibleAnswer);
+            bool answeredCorrectly = _model.CheckAnswer(possibleAnswer.Message);
             HandleAnswer(answeredCorrectly);
         }
 

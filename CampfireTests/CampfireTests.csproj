@@ -56,6 +56,7 @@
     <Compile Include="StubChatApi.cs" />
     <Compile Include="QuestionStateTests.cs" />
     <Compile Include="FuzzyAnswerMatchStrategyTests.cs" />
+    <Compile Include="ScoreBoardTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\QuizGameServer\QuizGameServer.csproj">
