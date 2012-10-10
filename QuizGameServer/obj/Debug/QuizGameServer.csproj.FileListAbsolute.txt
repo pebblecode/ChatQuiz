@@ -1,0 +1,6 @@
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CampfireHoon\QuizGameServer\obj\Debug\QuizGameServer.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CampfireHoon\QuizGameServer\bin\Debug\QuizGameServer.exe.config
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CampfireHoon\QuizGameServer\bin\Debug\QuizGameServer.exe
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CampfireHoon\QuizGameServer\bin\Debug\QuizGameServer.pdb
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CampfireHoon\QuizGameServer\obj\Debug\QuizGameServer.exe
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\CampfireHoon\QuizGameServer\obj\Debug\QuizGameServer.pdb

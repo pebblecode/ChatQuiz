@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampfireTests", "CampfireTests\CampfireTests.csproj", "{EDB7C021-3C58-41BA-AA31-91DDD009183A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizGameServer", "QuizGameServer\QuizGameServer.csproj", "{A3945D7C-1C70-4D01-A985-EBCE73CEEF34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDB7C021-3C58-41BA-AA31-91DDD009183A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB7C021-3C58-41BA-AA31-91DDD009183A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB7C021-3C58-41BA-AA31-91DDD009183A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB7C021-3C58-41BA-AA31-91DDD009183A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3945D7C-1C70-4D01-A985-EBCE73CEEF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3945D7C-1C70-4D01-A985-EBCE73CEEF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3945D7C-1C70-4D01-A985-EBCE73CEEF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3945D7C-1C70-4D01-A985-EBCE73CEEF34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
