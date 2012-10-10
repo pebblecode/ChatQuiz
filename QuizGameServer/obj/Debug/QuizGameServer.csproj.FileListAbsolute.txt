@@ -4,3 +4,9 @@
 \\vmware-host\shared folders\documents\visual studio 2012\Projects\CampfireHoon\QuizGameServer\bin\Debug\QuizGameServer.pdb
 \\vmware-host\shared folders\documents\visual studio 2012\Projects\CampfireHoon\QuizGameServer\obj\Debug\QuizGameServer.exe
 \\vmware-host\shared folders\documents\visual studio 2012\Projects\CampfireHoon\QuizGameServer\obj\Debug\QuizGameServer.pdb
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\QuizGameServer\bin\Debug\QuizGameServer.exe.config
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\QuizGameServer\bin\Debug\QuizGameServer.exe
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\QuizGameServer\bin\Debug\QuizGameServer.pdb
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\QuizGameServer\obj\Debug\QuizGameServer.csprojResolveAssemblyReference.cache
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\QuizGameServer\obj\Debug\QuizGameServer.exe
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\QuizGameServer\obj\Debug\QuizGameServer.pdb

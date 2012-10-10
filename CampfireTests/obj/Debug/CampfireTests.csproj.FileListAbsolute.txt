@@ -5,3 +5,10 @@
 \\vmware-host\shared folders\documents\visual studio 2012\Projects\CampfireHoon\CampfireTests\obj\Debug\CampfireTests.pdb
 \\vmware-host\shared folders\documents\visual studio 2012\Projects\CampfireHoon\CampfireTests\bin\Debug\QuizGameServer.exe
 \\vmware-host\shared folders\documents\visual studio 2012\Projects\CampfireHoon\CampfireTests\bin\Debug\QuizGameServer.pdb
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\CampfireTests\bin\Debug\CampfireTests.dll
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\CampfireTests\bin\Debug\CampfireTests.pdb
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\CampfireTests\bin\Debug\QuizGameServer.exe
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\CampfireTests\bin\Debug\QuizGameServer.pdb
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\CampfireTests\obj\Debug\CampfireTests.csprojResolveAssemblyReference.cache
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\CampfireTests\obj\Debug\CampfireTests.dll
+C:\Users\Jamesw\Documents\GitHub\ChatQuiz\CampfireTests\obj\Debug\CampfireTests.pdb
